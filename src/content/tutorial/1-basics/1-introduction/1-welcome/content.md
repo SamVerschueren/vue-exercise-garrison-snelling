@@ -1,10 +1,11 @@
 ---
 type: lesson
-title: Welcome to TutorialKit
+title: Interactive Vue Playgrounds with TutorialKit
 focus: /counter.js
+template: default
 ---
 
-# Welcome to TutorialKit
+# Interactive Vue Playgrounds with TutorialKit
 
 Hey there, and welcome to TutorialKit 👋!
 
